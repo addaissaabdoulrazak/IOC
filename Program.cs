@@ -24,7 +24,7 @@ namespace IOC
             //Console.ReadKey();
 
             /*------------------------------------------------------------------------------------------------------------------------------------------------------*
-             *              si vous voulez lire le contenue d'un fichier dans la  globalité utiliser un Table                                                       *
+             *              si vous voulez lire le contenue d'un fichier dans la  globalité utiliser un Tableau                                                       *
              *------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
@@ -44,7 +44,9 @@ namespace IOC
              *  EX: considerons une interface Animal et une classe Chat implementant l'interface Animal il est possible de declarer une variable de type Animal et lui affecté *
              *         un objet(utilisation de new <<instanciation>>) de type chat car on peu dire <<qu'un chat est une Animal>> => Le polymorphisme dans tout ces Etat        *
              *                                                                                                                                                                 *
-             *         c'est ce principe qui est mis en Evidance dans ce exercice avec :IDao dao=(IDao)Activator.CreateInstance(typeDao)                                       *
+             *         c'est ce principe qui est mis en Evidance dans ce exercice avec :IDao dao=(IDao)Activator.CreateInstance(typeDao) avec l'instanciation dynamic on evite *
+             *         de mieux que nous pouvons d'utiliser les objets de type classe et vous pouvez de même remarquez que a chaque fois que nous creons une instance on effectue
+             *         en même temps un casting pour changer le type de l'instance en un type Interface                                                                        *
              *-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
             IDao dao = (IDao)Activator.CreateInstance(typeDao);
             Type typeMetier = Type.GetType(metierClassName);
