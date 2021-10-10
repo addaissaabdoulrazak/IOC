@@ -1,0 +1,12 @@
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.exe
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.deps.json
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.runtimeconfig.json
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.runtimeconfig.dev.json
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.dll
+C:\Users\USER-PC\source\repos\IOC\bin\Release\netcoreapp3.1\IOC.pdb
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.AssemblyInfo.cs
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.dll
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.pdb
+C:\Users\USER-PC\source\repos\IOC\obj\Release\netcoreapp3.1\IOC.genruntimeconfig.cache

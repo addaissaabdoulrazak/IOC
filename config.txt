@@ -1,0 +1,2 @@
+﻿IOC.DAO.DaoImpl2
+IOC.METIER.MetierImpl
